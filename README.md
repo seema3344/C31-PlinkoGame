@@ -1,4 +1,3 @@
 # C31-Plinko-Game
-Watch the mini balls fall into the container! 👀 🏉⚾⚽ 📦
+http://127.0.0.1:5500/C31-PlinkoGame/
 
-https://setucoder.github.io/C31-Plinko-Game/
